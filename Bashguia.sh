@@ -149,6 +149,6 @@ echo -e "$G Adios..!!"
 else
 
 
-	       bash $PREFIX/bin/binarios
+	       bash $PREFIX/bin/bash
 
 fi
