@@ -50,7 +50,7 @@ printf "$C presiona en $G enter $C para continuar"
 echo
 read enter
 echo
-source $HOME/10
+source $HOME/BashShark/Bashguia.sh
 
 elif [ $SIGN -eq '2' ]; then
 
@@ -66,7 +66,7 @@ echo
 printf "$C Presiona en $G enter $C para continuar"
 echo
 read enter
-source $HOME/10
+source $HOME/BashShark/Bashguia.sh
 
 elif [ $SIGN -eq '3' ]; then
 
@@ -90,7 +90,7 @@ echo
 printf "$C Presiona en $G enter $C para continuar"
 echo
 read enter
-source $HOME/10
+source $HOME/BashShark/Bashguia.sh
 
 elif [ $SIGN -eq '4' ]; then
 
@@ -107,7 +107,7 @@ echo
 printf "$C Presiona en $G enter $C para continuar"
 echo
 read enter
-source $HOME/10
+source $HOME/BashShark/Bashguia.sh
 
 elif [ $SIGN -eq '5' ]; then
 
@@ -123,7 +123,7 @@ echo
 printf "$C Presiona en $G enter $C para continuar"
 echo
 read enter
-source $HOME/10
+source $HOME/BashShark/Bashguia.sh
 
 elif [ $SIGN -eq '6' ]; then
 
@@ -137,7 +137,7 @@ echo
 printf "$C Presiona en $G enter $C para continuar"
 echo
 read enter
-source $HOME/10
+source $HOME/BashShark/Bashguia.sh
 
 elif [ $SIGN -eq '10' ]; then
 
